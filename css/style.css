@@ -1,0 +1,22 @@
+html {
+  /* Colors generated with http://www.coolors.co */
+  /* CSS HEX */
+  --bittersweet: #f97068ff;
+  --dark-purple: #210b2cff;
+  --sapphire-blue: #0c6291ff;
+  --cultured: #f0f6f6ff;
+  --eton-blue: #94c9a9ff;
+}
+body {
+  background-color: var(--cultured);
+  color: var(--dark-purple);
+  margin: 0;
+}
+#main-header {
+  background-color: var(--dark-purple);
+}
+h1 {
+  margin: 0;
+  padding: 20px;
+  color: var(--cultured);
+}
