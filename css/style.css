@@ -75,6 +75,7 @@ img{
 footer{
   background-color: var(--bittersweet);
   margin: 50px;
+  padding: 20px;
   text-align: center;
   font-size: 75%;
 }
